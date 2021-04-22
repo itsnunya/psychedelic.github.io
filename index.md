@@ -2,6 +2,7 @@
 
 ###This is the place to learn more about psychedelics, specifically LSD!
 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
