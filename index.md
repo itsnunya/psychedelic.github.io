@@ -79,7 +79,6 @@ In 1968 President Nixon declared drugs to be “public enemy number one” and i
 
 # FAQ's
 
-#
 ## Is LSD addictive?
 
 LSD is not considered to be addictive nor does it cause compulsive use. One reason is that the intense, long-lasting experience, which can be physically and mentally challenging, may cause people using LSD non-medically to limit their frequency of use.
