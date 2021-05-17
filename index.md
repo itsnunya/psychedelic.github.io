@@ -1,6 +1,6 @@
 # Welcome!
 
-## This is the place to learn more about Lysergic Acid Diethylamide, aka LSD!
+## This is the place to learn more about Lysergic Acid Diethylamide, AKA LSD!
 
 ### Intentions
 1. Educate young adults on effects of LSD
