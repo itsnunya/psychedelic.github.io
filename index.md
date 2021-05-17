@@ -2,7 +2,7 @@
 
 ## This is the place to learn more about Lysergic Acid Diethylamide, AKA LSD!
 
-### Intentions
+### What are the intentions of my website?
 
 1. Educate young adults on effects of LSD
 2. Promote mental health
@@ -11,9 +11,7 @@
 
 1. Daily check-in w/ short descriptions of research
 2. Questionnaire's answered by young adults
-3. Interviews w/ young adults who have experimented w/ psychedelics (podcast format).
-4. Anonymous pictures of eyes/pupils under the influence
-5. History/Information of LSD
+3. History/Information of LSD
 
 ### What's my question?
 
