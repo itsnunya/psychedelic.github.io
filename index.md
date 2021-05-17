@@ -77,8 +77,9 @@ In the popular press and among politicians, LSD became associated with this yout
 LSD’s widespread popularity at the time meant that it was often used in chaotic settings and sometimes by people who did not know what they were taking or who were otherwise unprepared for the experience. Media began reporting on strange behavior and negative outcomes associated with LSD use.
 In 1968 President Nixon declared drugs to be “public enemy number one” and in 1970 signed the Controlled Substances Act, placing LSD in Schedule I. Nixon’s domestic policy chief admitted decades later that their declaration of a war on drugs was a tool to vilify the anti-war left, Black people, and other minorities.
 
-# FAQ
+# FAQ's
 
+#
 ## Is LSD addictive?
 
 LSD is not considered to be addictive nor does it cause compulsive use. One reason is that the intense, long-lasting experience, which can be physically and mentally challenging, may cause people using LSD non-medically to limit their frequency of use.
