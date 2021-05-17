@@ -1,6 +1,6 @@
 # Welcome!
 
-## This is the place to learn more about psychedelics, specifically LSD, Lysergic Acid Diethylamide!
+## This is the place to learn more about Lysergic Acid Diethylamide, aka LSD!
 
 ### Intentions
 1. Educate young adults on effects of LSD
@@ -21,12 +21,29 @@ https://www.psychologytoday.com/ca/blog/the-future-brain/202101/the-emerging-rev
 https://www.scientificamerican.com/article/johns-hopkins-scientists-give-psychedelics-the-serious-treatment/ 
 https://journals.sagepub.com/home/jop 
 
+# General Information
+
 ## What is LSD?
 Lysergic acid diethylamide, commonly referred to as LSD, or “acid,” is considered the best known and most researched psychedelic drug. LSD is active at exceptionally small doses (around 20 micrograms) and is taken orally, sometimes as droplets or more commonly on blotter paper and absorbed on the tongue and then swallowed.
 
 ## What are the uses for LSD?
 Scientists considered psychedelics to be promising treatments as an aid to therapy for a broad range of psychiatric diagnoses, including alcoholism, schizophrenia, autism spectrum disorders, and depression. Recent results from epidemiological studies have shown lower rates of mental health disorders and suicide among people who have used psychedelics like LSD.
 LSD is currently in Schedule I of the Controlled Substances Act, the most heavily criminalized category for drugs. Schedule I drugs are considered to have a “high potential for abuse” and no currently accepted medical use – though when it comes to LSD there is significant evidence to the contrary on both counts.
+
+## LSD Symptoms
+
+### Physical
+LSD can cause pupil dilation, reduced appetite, profuse sweating, and wakefulness. Other physical reactions to LSD are highly variable and nonspecific, some of which may be secondary to the psychological effects of LSD. Among the reported symptoms are elevated body temperature, blood sugar, and heart rate, alongside goose bumps, jaw clenching, mouth dryness, and hyperreflexia. In negative experiences, numbness, weakness, nausea, and tremors have also been exhibited.
+
+### Psychological
+The most common immediate psychological effects of LSD are visual hallucinations and illusions (colloquially known as "trips"), which vary depending on how much is used and how the dosage interacts with the brain. Trips usually start within 20–30 minutes of taking LSD orally (less if snorted or taken intravenously), peak three to four hours after ingestion, and can last up to 20 hours in high doses. Users may also experience an "afterglow" of improved mood or perceived mental state for days or even weeks after ingestion in some experiences. Good trips are reportedly deeply stimulating and pleasurable, and typically involve intense joy or euphoria, a greater appreciation for life, reduced anxiety, a sense of spiritual enlightenment, and a sense of belonging or interconnectedness with the universe. Negative experiences, colloquially known as "bad trips," evoke an array of dark emotions, such as irrational fear, anxiety, panic, paranoia, dread, distrustfulness, hopelessness, and even suicidal ideation. While it is impossible to predict when a bad trip will occur, one's mood, surroundings, sleep, hydration, social setting, and other factors can be controlled (colloquially referred to as "set and setting") to minimize the risk of a bad trip.
+
+### Sensory
+LSD causes an animated sensory experience of senses, emotions, memories, time, and awareness for 6 to 20 hours, depending on dosage and tolerance.[15] Generally beginning within 30 to 90 minutes after ingestion, the user may experience anything from subtle changes in perception to overwhelming cognitive shifts. Changes in auditory and visual perception are also typical.
+
+Some sensory effects may include an experience of radiant or more vibrant colors, objects and surfaces appearing to ripple, "breathe," or otherwise move, spinning fractals superimposed on one's vision, colored patterns behind closed eyelids, an altered sense of time, geometric patterns emerging on walls and other textured objects, and morphing objects. Some users also report a strong metallic taste for the duration of the effects. Food's texture or taste may be different than when sober, and users may also have an aversion to foods that they would normally enjoy. Similar effects have also been found in rats.
+
+Some report that the inanimate world appears to animate in an inexplicable way; for instance, objects that are static in three dimensions can seem to be moving relative to one or more additional spatial dimensions. Many of the basic visual effects resemble the phosphenes seen after applying pressure to the eye and have also been studied as form constants. Sometimes these effects and patterns can be changed when concentrated on, or can change based on thoughts, emotions or music. The auditory effects of LSD may include echo-like distortions of sounds, changes in ability to discern concurrent auditory and visual stimuli, and a general intensification of the experience of music. Higher doses often cause intense and fundamental distortions of sensory perception such as synesthesia, the experience of additional spatial or temporal dimensions, and temporary dissociation.
 
 ## How can we reduce the harms associated with LSD?
 LSD is active at very low doses (around 20 micrograms) and can have very different effects at what are only small differences in amounts and from person to person. Appropriate dosing is important. Individual ¼” squares of LSD on blotter paper (called “tabs”) usually contain roughly between 30-100 micrograms, and a common dosage range is between 50-150 micrograms.
