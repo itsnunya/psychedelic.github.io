@@ -67,7 +67,8 @@ LSD’s widespread popularity at the time meant that it was often used in chaoti
 In 1968 President Nixon declared drugs to be “public enemy number one” and in 1970 signed the Controlled Substances Act, placing LSD in Schedule I. Nixon’s domestic policy chief admitted decades later that their declaration of a war on drugs was a tool to vilify the anti-war left, Black people, and other minorities.
 
 # FAQ's
- ## Is LSD addictive?
+
+## Is LSD addictive?
 LSD is not considered to be addictive nor does it cause compulsive use. One reason is that the intense, long-lasting experience, which can be physically and mentally challenging, may cause people using LSD non-medically to limit their frequency of use.
 Another reason is that the human body quickly builds tolerance to LSD, such that users require much higher doses after only a few days of repeated use, making it extremely difficult to have any effect after more than four days of repeated usage.
 Because of the similar brain receptors involved in their effects, cross-tolerance occurs with psilocybin and LSD, which means that if someone takes psilocybin mushrooms one day, the effects of taking LSD the next day will be diminished.
